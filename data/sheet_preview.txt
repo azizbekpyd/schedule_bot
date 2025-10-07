@@ -1,0 +1,60 @@
+																								
+			"Tastıyıqlayman"					Nòkis mámleketlik texnika universiteti													"Kelisildi"			
+			Nòkis mámleketlik texnika universiteti					Kompyuter ilimleri fakultetiniń													Nòkis mámleketlik texnika universiteti			
+			Oqıw isleri boyınsha prorektor					2025-jıl 29-sentyabr ayınan baslap hárekettegi oqıw saatları 													Oqıw metodikalıq basqarma baslıǵı			
+			_________________R. Oteniyazov					K  E  S  T  E  S  I													______________ SH. Yadgarov 			
+																								
+	Kún ler	Para	301-22 KI (qq)	s/s	306-22 AT-ser (qq)	s/s	304-22 DI (qq)	s/s	304/1-22 DI (qq)	s/s	101-22 KI (o'zb)	s/s	106-22 АТ-ser (o'zb)	s/s	104-22 DI (o'zb)	s/s	104/1-22 DI (o'zb)	s/s	201-22 KI (rus)	s/s	206-22 AT-ser. (rus)	s/s	204-22 DI (rus)	s/s
+			Kompyuter injiniringi	21	KI AT-Servis	18	Dasturiy injiniring	17	Dasturiy injiniring	16	Kompyuter injiniringi	19	KI AT-Servis	20	Dasturiy injiniring	15	Dasturiy injiniring	15	Kompyuter injiniringi	13	KI AT-Servis	11	Dasturiy injiniring	18
+	Dúyshembi	I	Geoinfor-ya tex-rı (ámel)	102	Buyimlar interneti (lek)	23	Prog tám qur h evol-sı (lek)			35	Para-l esap arx h prog (lek)	37	Bult tex (Cloud comp) (lek)	31	Real waqıt sisteması (lek) 			5	Geoinformaciya tex-rı (lek)	13	Buyimlar interneti (lek)	19	MatLab da prog-rıw (lek)	104
+			ass. Djalimov		prof. Kaipbergenov B		ass. Burxanova A				ass. Aimbetova G		ass. Begjanova Z		ass. Djiemuratova Z				ass. Bekbosinov A		ass. Aymurzaeva A		PhD. Pirimbetov A	
+		II	Bólistiril-n sis-rı (ámel)	102	Infor sis proekt menj (lek)	23	Maǵ dás qay islew tex-sı (lek) 			35	Kompyuterdi kòriw (lek) 	37	Mash an-z h sheshim (lek)	31	Real waqıt sis-sı (ámel) 	103	Prog tám qur h evol (ámel)	104	Kom-di model-riw (lek) 	18	Infor sis proekt menj (lek)	19	Maǵ dás qay isl tex (ámel)	5
+			ass. Sarsenbaeva X		ass. Begjanova Z		ass. Abdullaev S 				ass. Aimbetova G		ass. Karajanova A		ass. Djiemuratova Z		ass.Yuldashov D		ass. Elmuratov M		prof. Kaipbergenov B		ass. Kudaybergenov J	
+		III	Bólistiril-n sis-rı (lek)	5	Mash ana h sheshim (lek)	23	Prog tám qur h evol (ámel)	10	Prog tám qur h evol (ámel)	11	Geoinformaciya tex-rı (lek)	37	Bultlı tex (Cl-d com) (amel)	12	Real waqıt sisteması (lek) 			3	Kompyuterdi kòriw (lek) 	18	Buyimlar interneti (lek)	14		
+			ass. Sarsenbaeva X		ass. Axunbetova Z		ass. Burxanova A		ass. Yuldashov D		ass. Bekbosinov A		ass. Begjanova Z		ass. Djiemuratova Z				ass. Xabibullayeva D		ass. Aymurzaeva A			
+		IV																						
+																								
+	Shiyshembi	I	Para-l esap arx h prog (lek)	22	Mash an-z h sheshim (amel)	10	Real waqıt sis-sı (lek) 			35	Bólistiril-n sis-rı (ámel)	13	Bultlı tex (Cl-d com) (lek)	31	Maǵ dás qay islew tex-sı (lek) 			17	Bólistiril-n sis-rı (ámel)	18	Buyimlar interneti (ámel)	19	Prog tám qur h evol-sı (lek)	5
+			ass. Aimbetova G		ass. Bekniyazova N 		ass. Djiemuratova Z				ass. Xiyasov I		ass. Begjanova Z		ass. Abdullaev S 				ass. Abibullayev S		ass. Paraxatov Q		ass. Mamutova A	
+		II	Kom-di model-riw (ámel) 	22	Buyimlar interneti (ámel)	23	MatLab da prog-rıw (lek)			35	Kom-di model-riw (lek) 	37	Buyimlar interneti (lek)	31	Prog tám qur h evol (ámel)	102	Maǵ dás qay isl tex (ámel)	103	Bólistiril-n sis-rı (ámel)	13	Bultlı tex (Cl-d com) (lek)	19	Prog tám qur h evol (ámel)	36
+			ass. Arziev A		ass. Seytniyazov D		PhD. Pirimbetov A				PhD. Tleuov K		ass. Bekniyazova N		ass. Burxanova A		ass. Kudaybergenov J		ass. Abibullayev S		ass. Paraxatov Q		ass. Mamutova A	
+		III	Geoinformaciya tex-rı (lek)	22	Bult tex (Cloud comp) (lek)	23	Sistemalı prog-rıw (ámel)	37	Maǵ dás qay isl tex (ámel)	102	Kom-di model-riw (ámel) 	35	Mobil qos-n isl shıǵ (lek) 	31	Maǵ dás qay islew tex-sı (lek) 			6	Bólistiril-n sis-rı (lek)	17	Mash an-z h sheshim (lek)	19	Maǵ dás qay islew tex (lek) 	36
+			ass. Bekbosinov A		prof. Kaipbergenov B		ass. Primbetov A		ass. Yuldashov D		ass. Isakov I		ass. Qaipov A		ass. Abdullaev S 				ass. Abibullayev S		PhD. Qutlimuratov Yu		ass. Kudaybergenov J	
+		IV																						
+																								
+	Sárshembi	I	Geoinfor-ya tex-rı (ámel)	22	Infor sis proekt menj (ámel)	23	MatLab da prog-rıw (lek)			35	Geoinfor-ya tex-rı (ámel)	102	Mobil qos-n isl shıǵ (ámel) 	104	Prog tám qur h evol-sı (lek)			6	Komp-di kòriw (ámel) 	10	Bultlı tex (Cl-d com) (amel)	11	Real waqıt sis-sı (ámel) 	103
+			ass. Djalimov		ass. Begjanova Z		PhD. Pirimbetov A				ass. Bekbosinov A		ass. Qaipov A		ass. Yadgarov Sh 				ass. Xiyasov I		ass. Paraxatov Q		ass. Mamutova A	
+		II	Kom-di model-riw (lek) 	22	Mobil qos-n isl shıǵ (lek) 	23	Maǵ dás qay islew tex-sı (lek) 			35	Kom-di model-riw (ámel) 	102	Infor sis proekt menj (lek)	15	Real waqıt sis-sı (lek) 			6	Para-l esap arx h prog (ámel)	13	Mash an-z h sheshim (lek)	27	Prog tám qur h evol-sı (lek)	31
+			ass. Bekbosinov A		ass. Qaipov A		ass. Abdullaev S 				ass. Isakov I		ass. Ergaliev K		ass. Djiemuratova Z				ass. Aimbetova G		PhD. Qutlimuratov Yu		ass. Mamutova A	
+		III	Kompyuterdi kòriw (lek) 	22	Buyimlar interneti (lek)	23	Maǵ dás qay isl tex (ámel)	14	MatLab da prog-rıw (ámel) 	6	Bólistiril-n sis-rı (lek)	3	Mobil qos-n isl shıǵ (ámel) 	104			Real waqıt sis-sı (ámel) 	10	Komp-di kòriw (ámel) 	13	Bult tex (Cloud comp) (lek)	7		
+			ass. Aimbetova G		prof. Kaipbergenov B		ass. Baymuratova G 		PhD. Pirimbetov A		ass. Sarsenbaeva X		ass. Qaipov A				ass. Allamuratov I		ass. Xiyasov I		ass. Paraxatov Q			
+		IV																						
+																								
+	Piyshembi	I	Para-l esap arx h prog (ámel)	10	Mobil qos-n isl shıǵ (ámel) 	104	Sistemalı prog-rıw (lek)			35	Komp-di kòriw (ámel) 	11	Buyimlar interneti (lek)	31	Maǵ dás qay islew tex-sı (lek) 			27	Para-l esap arx h prog (lek)	22	Infor sis proekt menj (lek)	19	MatLab da prog-rıw (lek)	5
+			ass. Arziev A		ass. Qaipov A		ass. Primbetov A				ass. Abdinasirova N		ass. Bekniyazova N		ass. Abdullaev S 				ass. Aimbetova G		prof. Kaipbergenov B		PhD. Pirimbetov A	
+		II	Komp-di kòriw (ámel) 	22	Mobil qos-n isl shıǵ (ámel) 	104	Sistemalı prog-rıw (lek)			35	Geoinfor-ya tex-rı (ámel)	37	Infor sis proekt menj (lek)	31	Maǵ dás qay isl tex (ámel)	6			Kom-di model-riw (ámel) 	7	Mash ana h sheshim (ámel)	19	Maǵ dás qay islew tex (lek) 	5
+			ass. Abdinasirova N		ass. Qaipov A		ass. Primbetov A				ass. Bekbosinov A		ass. Ergaliev K		ass. Yuldashov D				ass. Xiyasov I		ass. Jarilkaganova A		ass. Kudaybergenov J	
+		III	Bólistiril-n sis-rı (ámel)	102	Bultlı tex (Cl-d com) (lek)	5	MatLab da prog-rıw (ámel) 	11	Sistemalı prog-rıw (ámel)	104	Para-l esap arx h prog (ámel)	37	Infor sis proekt menj (ámel)	12					Geoinfor-ya tex-rı (ámel)	103	Mobil qos-n isl shıǵ (lek) 	19	MatLab da prog-rıw (ámel) 	10
+			ass. Sarsenbaeva X		prof. Kaipbergenov B		ass. Mamutova A		ass. Asenbayeva D		ass. Aimbetova G		ass. Begjanova Z						ass. Xabibullayeva D		ass. Allamuratov T		PhD. Pirimbetov A	
+		IV																						
+																								
+	Juma	I	Kom-di model-riw (ámel) 	102	Mash an-z h sheshim (lek)	23	Real waqıt sis-sı (lek) 			35	Komp-di kòriw (ámel) 	103	Mash ana h sheshim (ámel)	10	Prog tám qur h evol-sı (lek)			7	Geoinfor-ya tex-rı (ámel)	11	Mobil qos-n isl shıǵ (ámel) 	13	Real waqıt sis-sı (lek) 	5
+			ass. Arziev A		ass. Axunbetova Z 		ass. Djiemuratova Z				ass. Abdinasirova N		ass. Karajanova A		ass. Yadgarov Sh 				ass. Xabibullayeva D		ass. Allamuratov T		ass. Mamutova A	
+		II	Para-l esap arx h prog (ámel)	102	Infor sis proekt menj (lek)	23	Prog tám qur h evol-sı (lek)			35	Para-l esap arx h prog (ámel)	103	Buyimlar interneti (ámel)	10	Prog tám qur h evol-sı (lek)			3	Kom-di model-riw (ámel) 	11	Infor sis proekt menj (ámel)	14	Real waqıt sis-sı (lek) 	5
+			ass. Arziev A		ass. Begjanova Z		ass. Burxanova A				ass. Aimbetova G		ass. Bekniyazova N		ass. Yadgarov Sh 				ass. Xiyasov I		ass. Jarilkaganova 		ass. Mamutova A	
+		III	Komp-di kòriw (ámel) 	103	Bultlı tex (Cl-d com) (amel)	23	Real waqıt sis-sı (ámel) 	11	Real waqıt sis-sı (ámel) 	12	Bólistiril-n sis-rı (ámel)	104	Mash an-z h sheshim (lek)	31					Para-l esap arx h prog (ámel)	21	Mobil qos-n isl shıǵ (ámel) 	14		
+			ass. Abdinasirova N		ass. Ergaliev K		ass. Djiemuratova Z		ass. Allamuratov I		ass. Xiyasov I		ass. Karajanova A						ass. Aimbetova G		ass. Allamuratov T			
+		IV																						
+																								
+	Shembi	I																						
+																								
+		II																						
+																								
+		III																						
+																								
+		Kompyuter ilimleri fakulteti dekanı, PhD.                                                                    T. Berdimbetov																						
+																								
+																								
+																								
+																								
+																								
